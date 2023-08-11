@@ -8,6 +8,3 @@ Limit instances of a class to one
 - Resource allocators and spoolers
 - Logging 
 - Caching
-## Type
-- Singleton Lazy 
-- Singleton Eager
